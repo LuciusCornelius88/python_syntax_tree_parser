@@ -1,0 +1,5 @@
+nltk>=3.8.1
+parameterized>=0.9.0
+pyparsing==3.1.1
+setuptools>=63.2.0
+tqdm>=4.66.2
